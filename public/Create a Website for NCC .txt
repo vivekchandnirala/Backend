@@ -1,0 +1,136 @@
+Create a Website for NCC 
+Use good Color and make awesome Design 
+Whatever I give you Instruction You have to remember it (like where i am saying to look this logo, if i am saying in right then it will look right ony or if i say look left then look left only)
+(Remember also that I am making this Website for PC as well as mobile phone, I will also tell the alignment so accordingly remember it (how it should look in Pc and How look into the Mobile Phone))
+
+
+1st Division: 
+It is very thin thikness where in the left of the division written "Mininstry of Defence"  and in the full right of the division there will be one small circle which change the mode(dark mode or light mode) by clicking on it, initially the mode in light mode and when we click on the circle it change the whole webpage into dark mode.(the color of the circle will be white when dark mode is on and the color of circle will be black when light mode is on and little bit side also written "Mode"). and also Picture of Social media's and all the picture should be hyperlink, and one "+" option also when we click it will make the font bigger and one "-" option also when we click on it, it will make the font size smaller. and one "A" option when we Click click on it, it will make the Default font size of the website page.(All this thing in the Right Side of the Division except  written "Mininstry of Defence").
+(write the JavaScript code (not only 1 time increase the font size when i click on "+" or decrease when i click  "-", we can click 3 4 times also (I hope you have Understood))
+write the JavaScript code with more Functionality and to make more dynamically(Where ever you need javaScript to make more Dynamically you use it)
+
+
+
+2nd Division: 
+In this Division in the Left side of the division there is Logo of NCC and written "National Cadet Corps"(in both language Hindi and English)(and the Written part which is National Cadet Corps it is written in the center and Hindi written in Top and in below Written in English) and in the right most of the Division there will be 2 picture (logo of NCC and logo of University).
+(when we view in the Mobile view on that time the Right side 2 logo will not Display and the Written part "National Cadet Corps" will show in the center of the Division and show the Left Logo which is of "National Cadet Corps").
+
+
+
+3rd Division:
+This is a Navigation Bar : "Home", "About NCC", "Units Corner", "Alumni", "NCC Enrolment", "INSTITUTIONAL CORNER" and in the Right most of there is a logo and written "dashboard" (the dashboard will be hyperlink (when we click on it, it redirected us on the another page)).
+All the Option have Dropbox and the background color of the Dropdown will be blue., also when we are taking mouse on it, it little bit pop up and hover.
+Dropdown Option of the "About NCC" -> "Aim of NCC","Motto Of NCC","Core Values","Pledge","NCC Flag","NCC Song".
+Dropdown Option of the "Units Corner" -> "NCC Act", "NCC Rules", "Policies and Guidelines".
+Dropdown Option of the "INSTITUTIONAL CORNER" -> "Enrolment Procedure", "Appointment of ANO", "HandBook", "Rank".
+(All the Navigation option will Start from the Left Side but only the Dashboard option Appear in the Right Side of the Division)
+(This Division is very Important so, when we view in the mobile then the dashboard should not be go out of frame it should be inside the frame and auto adjust itself according to the screen of the mobile)
+
+Disclamer: The 2nd and 3rd Division having 20 margin from the left and right but when we view in the mobile view It will be in 100% width and 1st Division has 100% width of the Screen.
+
+
+
+4th Division:
+This Division is Photo Slider. In this Division there will be a 5 photo, but they will show one by one.
+(when we open the Website on that time there will be one photo after 3sec it will slide and next photo will appear and after that again next photo will appear one by one photo will appear when the last photo will appear after that again the 1st photo will appear and follow the looping system all the photo come one by one after 3 second).
+(This Division cover 100% of the Screen and good Height also)(It will auto adjust according to the Mobile View, in the Mobile view also it will be 100% but the height will decrease, to make look good)
+
+Disclamer: All the Photo come one by one and after every 3 second it will change the Photo and Show the new photo.(Keep the Width 100% in both PC view and Mobile View but it Should be Dynamically Change it's Height in the Mobile view and the Height of the Photo in PC view Make Good (Dont make Too large)).
+
+
+
+
+5th Division:
+It is little bit Complex so listen Carefully, It is basically the Division where show the new Updates (what is coming up).
+In this Divison, we use 100% width of the Screen in which from the left Side 30% is Fixed and there will be Written "What is New". and the rest 70% is Dynamically all the new updates come from the right side to left side and wait for 5 sec and then it go and new update will come and show and after 5 sec it go and in repeated mode it doing this.
+(Listen Carefully, from starting from the left of 30% there is written "What is New" and this part is fixed. This 30% will not move or disappear.)
+(In rest 70% there will be a new updates and it updates come from the right to left and then new update will come and then new and then new after that last update it again show the 1st update will show (this will do in loop).
+(this Division in the Mobile View appear Like: that 30% percentage which was fixed, in mobile it will cover 100% width of the Screen and just below that the updates will show (which was previously 70% but in Mobile it will cover 100% of the screen).
+The Background Color of this Division is in Light Blue Color and the font Color will be White.
+
+(take Care of the Height and Width in PC and Mobile View and also for the 30% fixed part and the new updates will in the Rest part which is 70%( that 70% is dynamically because the new Updates Come there in text form and after 5 second it will go and new Update will show.)
+
+
+6th Division:
+there will be a margin from the Left as well as from the Right (little bit only, margin will be like that it will align with 2nd Division and 3rd Division only)
+The Content of this Division is:
+this Division is Divided into 50% from left and 50% from the Right. In 50% of left, there will be 2 sub Division (1st is for "Aim of NCC" with his content and 2nd is for "Pledge" with his content and these 2 Sub Division in ROW).
+In 50% of Right Side, There will one heading "DG NCC" with content and there is one photo of DG NCC and one Button of Read More at the end of the content.
+
+(Overview how it look is: In laptop view - In left Side there is "Aim of NCC" with content and just below it there is "Pledge" with content and  in the Right side of the same Division (which is 50% of the Right) there is "DG NCC" (the alignment of this "DG NCC" will equal to the Left Side (Start the "DG NCC" top part from the alignment of "Aim of NCC" and the bottom of the "DG NCC" is align with the "Pledge")(Background of the "DG NCC" is Blue means 50% of Right side of the Division)
+
+In Mobile View: All these 3 Content Show Below each other (like when we are scrolling in mobile then 1st we see "Aim of NCC" and his content then "Pledge" and his content and then "DG NCC" and his content (but in DG NCC the photo will be in center and below it there will be Name and his Content and then button "Read More")(Background of the "DG NCC" will be Blue (means 50% of right side of the Division)
+
+
+
+7th Division:
+(This Division has a Margin from left and right so that it can Align with 2nd and 3rd Division)
+"Know your Authorities" this will be the Heading of the Division, In this division only there is sub-Division we say it 7(a):
+in the 7(a) division we put 3 photo  and these photo have own border with one bigger border and inside of the bigger border it is mention that what they are Providing .
+(Overview how it look like: In PC view - In starting there will the heading of the Division "Know your Authorities" and just below that there will be 3 sub division with a border and inside it there will 1 photo in each sub divison and some 3-4 Lines about the Photo and in each sub-division there will one Button "Book Appointment" and in each Sub-dividon there will be one logo of telephone and logo of mail (in small size) and written their Phone No. and Gmail)
+
+In Mobile View: This Division show his Content one by one (like When we Scrolling It show Know your Authorities" and below that it show 1st Sub-Division and his content and then show 2nd Sub-Division and his content and then 3rd Sub-Division and his Content.
+(The Photo which is in the Sub- Division will be in the top of the Sub-Division and then about that written below)
+
+
+
+
+8th Division:
+This Division is for NCC Camps
+there will be 3 Section (1> National Camp 2>Attachment Camp 3>Annual Camp) (this Division has a Margin from left and right so that it can Align with 2nd and 3rd Division) 
+In laptop View- It look like, see in left of the Division "National Camp" and just below it there is list of some camp. In the Center of the Division "Attachment Camp" and just below it there is list of some camp, and In the Right Side of the Division "Annual Camp" and just below it there is list of some camp.
+
+In Mobile View- When we Scroll Firstly we See Title "NCC Camps"(Align left of the Screen With Bold) and then we see National camp and the list of Camp (Center of the Screen) and then we see  Attachment Camp and the list of Camp (Center of the Screen) and then we see Annual Camp and the list of their Camp (Center of the Screen).
+
+
+
+9th Division:
+this Division is Gallery Section. It display the Title "Gallery" and then,
+This Division has 3 Section (1> Photo Gallery 2>Videos 3>Activity)
+All these Section has it's one square boxes (with one Photo in it and when we take mouse on it, it will pop also (means little bit it come out) and and when we click on the boxes it will redirected us on the other page. (It is dynamically show the Photos in the boxes)	
+
+In laptop view: (this Division has Background color of blue and 100% width of screen)
+firstly Written Gallery and then below it In left side of the Division there will be a square box and just below written "Photo Gallery" and then in Center of the division there will be a square box of "Videos" and below it written "Video" and in the right of the Division there will be square box for Activity and below it written "Activity"
+
+In Mobile View: When we Scroll Firstly we See the the Gallery Section. and below that we see the square box of photo galley and below it written "Photo Gallery" and when we scroll down we see square box of video gallery and below it written "Video" and when we scroll down we see the square box of Activity and below it written "Activity".
+
+Disclamer (In the square box there will be one photo (in each box) and below it written their name and when we bring the mouse on it, it pop-up(little it come out) and the boxes are hyperlink.
+
+
+10th Division:
+In this Division Make 3 NCC Logo Inside the Circle And below that circle write for (1> Competition Result 2> NCC ENROLMENT 3> Honours And Awards) and when we Click on the Logo of that then it redirects on other page.Basically there is 3 Circle and inside each Circle there will be a logo of NCC and below that circle there will be Written (1> "Competition Result" 2> "NCC ENROLMENT" 3> "Honours And Awards").
+
+In Laptop View : There will be a margin from left and the right. In the Left side of the Division there will be a Circle and below that written "Competition Result" and in the Center of the Division there will one Circle and below that written "NCC ENROLMENT" and in the Right Side of the Division there will be a Circle and below that written "Honours And Awards".
+
+In Mobile View: When we Scroll we see them one by one means when we Scrolling down firstly we See the Circle of "Competition Result" and below it written "Competition Result" and then we see another Circle and below it written "NCC ENROLMENT" and then we see another Circle and below it written "Honours And Awards".
+
+(All the Circle are Clickable(hyperlink) and when we bring mouse on it show hover and the circle pop-up also(the logo of NCC which is inside the Circle it look it coming out(pop-up)).
+(Pop-up show when mouse bring on the Circle and when we remove the mouse from their then it come in original state)
+
+
+
+
+11th Division:
+there will one thin border where it written "Feedback / Website Policies / Contact Us / Help /Web Information Manager" and all this are Clickable and hyperlink when we click on it, it will redirected on the other page.
+It will just above the 14th Division.
+(Background Color of this division is red).
+
+
+
+12th Division:
+Which is footer of the website and it show at the last, when we Scroll then at the last show.
+there will be Written "Content Owned by NCC" and in the next line written "Developed and hosted by National Informatics Centre" and in the next Line written "Last Updated:"
+and in the next line there will be 3 logo (University, NCC, College).
+in the 12th Division all the Content will be in the Center (Writing part to logo part all are align in the Center).
+(Background color of this division in black and font color in white).
+
+
+
+Remember All the Points and Create the Website.
+Use HTML, CSS and JavaScript . What i personally believe that in this website JavaScript will use most so use the JavaScript More and make this Website more dynamically and provide more functionally.
+
+Provide all the code differently. HTML, CSS and JavaScript have Different Code. CSS and JavaScript are externally Linked in HTML file.
+ADD more Content In HTML File and Provide more Beauty to Website by keeping all the points clear (which i have mention in each division).
+
+Make functionally website which we can access in Mobile also (as I have mentioned and also as per the requirement).
+Write all the Code.

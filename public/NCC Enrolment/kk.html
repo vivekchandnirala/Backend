@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Registration Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>Add Enrolment</h1>
+  
+  <form id="registrationForm">
+    <!-- Personal Details Section -->
+    <div class="row">
+      <div class="column">
+        <h2>Personal Details</h2>
+        <div class="personal-details-grid">
+          <div class="input-group">
+            <label for="firstName">First Name<span class="required">*</span>:</label>
+            <input type="text" id="firstName" name="firstName" required>
+          </div>
+          <div class="input-group">
+            <label for="middleName">Middle Name:</label>
+            <input type="text" id="middleName" name="middleName">
+          </div>
+          <div class="input-group">
+            <label for="lastName">Last Name:</label>
+            <input type="text" id="lastName" name="lastName" required>
+          </div>
+          <div class="input-group">
+            <label for="gender">Gender<span class="required">*</span>:</label>
+            <select id="gender" name="gender">
+                <option value="gender">gender</option>
+              <option value="male">Male</option>
+              <option value="female">Female</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+          <div class="input-group">
+            <label for="reg">Registration Number<span class="required">*</span>:</label>
+            <input type="text" id="reg" name="reg" required>
+          </div>
+          <div class="input-group">
+            <label for="dob">Date of Birth<span class="required">*</span>:</label>
+            <input type="date" id="dob" name="dob" required>
+          </div>
+          <div class="input-group">
+            <label for="mobile">Mobile Number<span class="required">*</span>:</label>
+            <input type="tel" id="mobile" name="mobile" required>
+          </div>
+          <div class="input-group">
+            <label for="email">Email Address<span class="required">*</span>:</label>
+            <input type="email" id="email" name="email" required>
+          </div>
+
+          <div class="input-group">
+            <label for="fatherName">Father's Name<span class="required">*</span>:</label>
+        <input type="text" id="fatherName" name="fatherName" required>
+          </div>
+          <div class="input-group">
+            <label for="motherName">Mother's Name<span class="required">*</span>:</label>
+        <input type="text" id="motherName" name="motherName" required>
+          </div>
+          <div class="input-group">
+            <label for="nationality">Nationality<span class="required">*</span>:</label>
+        <input type="text" id="nationality" name="nationality" required>
+          </div>
+          <div class="input-group">
+            <label for="Category">Category<span class="required">*</span>:</label>
+            <select id="Category" name="Category">
+              <option value="cat">Category</option>
+              <option value="Genral">Genral</option>
+              <option value="OBC">OBC</option>
+              <option value="SC">SC</option>
+              <option value="ST">ST</option>
+            </select>
+          </div>
+          <div class="input-group">
+            <label for="identificationMark">Identification Mark<span class="required">*</span>:</label>
+        <input type="text" id="identificationMark" name="identificationMark">
+          </div>
+
+          <div class="input-group">
+            <label for="bloodGroup">Blood Group:</label>
+            <select id="bloodGroup" name="bloodGroup">
+                <option value="A+">A+</option>
+                <option value="A-">A-</option>
+                <option value="B+">B+</option>
+                <option value="B-">B-</option>
+                <option value="O+">O+</option>
+                <option value="O-">O-</option>
+                <option value="AB+">AB+</option>
+                <option value="AB-">AB-</option>
+              </select>
+          </div>
+          <!-- Add other personal details fields here -->
+        </div>
+      </div>
+    </div>
+
+
+
+    <!-- Education Section -->
+    <div class="row">
+      <div class="column">
+
+        <h2>Education</h2>
+        <div class="education-grid">
+          <div class="input-group">
+            <label for="state">State:</label>
+            <input type="text" id="state" name="state" required>
+          </div>
+
+        <div class="input-group">
+            <label for="presentYear">Presently Studying (Year):</label>
+            <select id="presentYear" name="presentYear">
+                <option value="1st">Select Year</option>
+                <option value="1st">1st</option>
+                <option value="2nd">2nd</option>
+                <option value="3rd">3rd</option>
+                <option value="4th">4th</option>
+              </select>
+          </div>
+
+          <div class="input-group">
+            <label for="course">Course:</label>
+        <input type="text" id="course" name="course" required>
+          </div>
+         
+          
+
+          <div class="input-group">
+            <label for="cadetType">Cadet Type:</label>
+            <input type="text" id="cadetType" name="cadetType" required>
+          </div>
+          <!-- Add other education fields here -->
+        </div>
+      </div>
+    </div>
+    
+    <!-- Address Section -->
+    <div class="row">
+      <div class="column">
+        <h2>Address</h2>
+        <div class="address-grid">
+          <div class="input-group">
+            <label for="Address">Address:</label>
+            <input type="text" id="Address" name="Address" required>
+          </div>
+
+          <div class="input-group">
+            <label for="Pincode">Pincode:</label>
+        <input type="text" id="Pincode" name="Pincode" required>
+          </div>
+          <div class="input-group">
+            <label for="PostOffice">Post Office:</label>
+        <input type="text" id="PostOffice" name="PostOffice" required>
+          </div>
+          <div class="input-group">
+            <label for="RailwayStation">Railway Station:</label>
+        <input type="text" id="RailwayStation" name="RailwayStation" required>
+          </div>
+          <div class="input-group">
+            <label for="State">State</label>
+        <input type="text" id="State" name="State" required>
+          </div>
+           <!-- Add other address fields here -->
+        </div>
+      </div>
+      <!-- Add permanent address fields here -->
+    </div>
+    
+
+
+
+
+    <!-- Bank Details Section -->
+    <div class="row">
+      <div class="column">
+        <h2>Bank Details</h2>
+        <div class="bank-details-grid">
+            <div class="input-group">
+                 <label for="bankName">Bank Name:</label>
+        <input type="text" id="bankName" name="bankName" required>
+              </div>
+            <div class="input-group">
+                <label for="bankAccountNumber">Bank Account Number:</label>
+        <input type="text" id="bankAccountNumber" name="bankAccountNumber" required>
+              </div>
+              <div class="input-group">
+                <label for="bankAccountHolderName">Bank Account Holder Name:</label>
+        <input type="text" id="bankAccountHolderName" name="bankAccountHolderName" required>
+              </div>
+              <div class="input-group">
+                <label for="bankAddress">Bank Address:</label>
+                <input type="text" id="bankAddress" name="bankAddress" required>
+              </div><div class="input-group">
+                <label for="bankAccountType">Bank Account Type:</label>
+                <select id="bankAccountType" name="bankAccountType">
+                  <option value="saving">Saving</option>
+                  <option value="current">Current</option>
+                </select>
+              </div>
+
+              <div class="input-group">
+                <label for="ifscCode">IFSC Code:</label>
+        <input type="text" id="ifscCode" name="ifscCode" required>
+              </div>
+              
+          <!-- Add bank details input fields here -->
+          
+        </div>
+      </div>
+      <!-- Add other bank details fields here -->
+    </div>
+    
+    <!-- Sports Section -->
+    <div class="row">
+      <div class="column">
+        <h2>Sports</h2>
+        <div class="sports-grid">
+            <div class="input-group">
+                <label for="sports">Sports/Games:</label>
+                <input type="text" id="sports" name="sports" required>
+            </div>
+
+            <div class="input-group">
+                <label for="levels">Levels (Level of Game):</label>
+                <select name="levels" id="levels">
+                    <option value="level">Level</option>
+                    <option value="school">School Level</option>
+                    <option value="zone">Zone Level</option>
+                    <option value="District">District Level</option>
+                    <option value="state">State level</option>
+                    <option value="Nationl">National Level</option>
+                    <option value="international">International Level</option>
+                </select>
+            </div>
+
+            <div class="input-group">
+                <label for="coCurricularActivity">Co-Curricular Activity:</label>
+                <input type="text" id="coCurricularActivity" name="coCurricularActivity" required>
+            </div>
+
+          <!-- Add sports details input fields here -->
+        </div>
+      </div>
+      <!-- Add other sports fields here -->
+    </div>
+    
+    <button type="submit">Save</button>
+  </form>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -23,13 +23,16 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.get('/', (req, res) => {
 	res.render('index');
 });
+
+app.get('/index.ejs',(req,res)=>{
+    res.render('register');
+});
+
 app.post('/submit',async (req,res)=>{
 
     try{
     await person.create(req.body);
-    res.render('submit',{
-        name:req.body.firstName,
-    });
+    res.redirect('/');
 }
 catch(err){
     console.log(err);
